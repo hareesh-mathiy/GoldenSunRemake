@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hareesh\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-freetype\1.9.2\3609253d14edb1b3ca5aacff4e06989edde75be4\gdx-freetype-1.9.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3609253d14edb1b3ca5aacff4e06989edde75be4">
+        <dex dex="C:\Users\Hareesh\Desktop\gstest\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-freetype-1.9.2_4c0cac798f9cb4ea0a8d6ab65815248e2b0d357b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hareesh\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.2\e641cb91bec06bc64d9ddf7a7d7062caceec73cd\gdx-1.9.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e641cb91bec06bc64d9ddf7a7d7062caceec73cd">
+        <dex dex="C:\Users\Hareesh\Desktop\gstest\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-1.9.2_0c551ac96a3ed56f05323c3b198c01e241e97c35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hareesh\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.4.1\8ace66ef7002d98f633377c9e67daeeb196d8c3b\okhttp-ws-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="C:\Users\Hareesh\Desktop\gstest\android\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-ws-3.4.1_38d2bb019e64de67f358ff7169748dcbbb946697\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hareesh\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.9.2\b78eaa90aaaf7830e6dffff587ea6e859c2787b2\gdx-box2d-1.9.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b78eaa90aaaf7830e6dffff587ea6e859c2787b2">
+        <dex dex="C:\Users\Hareesh\Desktop\gstest\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-box2d-1.9.2_00d157d8e2900a4c4cbfb4ecb7fa69276bb351b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hareesh\.gradle\caches\modules-2\files-2.1\net.dermetfan.libgdx-utils\libgdx-utils-box2d\0.13.2\cb22af5b48e5dbe82a4f0704e5ddf360e1d1c9d6\libgdx-utils-box2d-0.13.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cb22af5b48e5dbe82a4f0704e5ddf360e1d1c9d6">
+        <dex dex="C:\Users\Hareesh\Desktop\gstest\android\build\intermediates\transforms\dex\debug\folders\1000\10\libgdx-utils-box2d-0.13.2_8b5368f21b20caa15fc2026681f045acb4086444\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hareesh\.gradle\caches\modules-2\files-2.1\com.badlogicgames.box2dlights\box2dlights\1.4\3d77ad5b4164fb32fc67e2446e35911bb0aaf0bd\box2dlights-1.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3d77ad5b4164fb32fc67e2446e35911bb0aaf0bd">
+        <dex dex="C:\Users\Hareesh\Desktop\gstest\android\build\intermediates\transforms\dex\debug\folders\1000\10\box2dlights-1.4_1c116d2ab1b2265c93b9dd1b4953e8eb09252613\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hareesh\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\Users\Hareesh\Desktop\gstest\android\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_9816245f5babd924d1e5c1b3a1416ab31c7d8dc1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hareesh\.gradle\caches\modules-2\files-2.1\io.socket\socket.io-client\0.8.2\96fd0e4a99e71d688b7267e12d2a5a137519d92e\socket.io-client-0.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="96fd0e4a99e71d688b7267e12d2a5a137519d92e">
+        <dex dex="C:\Users\Hareesh\Desktop\gstest\android\build\intermediates\transforms\dex\debug\folders\1000\10\socket.io-client-0.8.2_bd6266cc074a292dcef4d3e7b0884b30a5cb2b5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hareesh\.gradle\caches\modules-2\files-2.1\io.socket\engine.io-client\0.8.2\2b23f3e731f21c2009ab0a10da8254a69693767d\engine.io-client-0.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2b23f3e731f21c2009ab0a10da8254a69693767d">
+        <dex dex="C:\Users\Hareesh\Desktop\gstest\android\build\intermediates\transforms\dex\debug\folders\1000\10\engine.io-client-0.8.2_99c3dcedd8eda3458ae75f29451ab6d1debcd51d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hareesh\Desktop\gstest\libs\tween-engine-api.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8be8beb70b7ccae059d523e56670f6e44fb1821f">
+        <dex dex="C:\Users\Hareesh\Desktop\gstest\android\build\intermediates\transforms\dex\debug\folders\1000\2\tween-engine-api_f52b533fbeb55c578a3962630f050bcc11940c21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hareesh\Desktop\gstest\android\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="afa731610b2e2e014d6cc910dd4dda686ead0590">
+        <dex dex="C:\Users\Hareesh\Desktop\gstest\android\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ec3aff8fe91fd149ee6ec4b3930246692f1df40e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hareesh\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-controllers\1.9.2\d651e0d52443b1c1a943641eebc06482e29923bc\gdx-controllers-1.9.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d651e0d52443b1c1a943641eebc06482e29923bc">
+        <dex dex="C:\Users\Hareesh\Desktop\gstest\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-controllers-1.9.2_a6ee86deae6d35373eac2b1eae69ccacd64732f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hareesh\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.2\342b830bc718dc1965c8f13fc58dc500e8bd262f\gdx-backend-android-1.9.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="342b830bc718dc1965c8f13fc58dc500e8bd262f">
+        <dex dex="C:\Users\Hareesh\Desktop\gstest\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-backend-android-1.9.2_e2689c8d0c3cd3251410d9986b44b8b7bd6f9f41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hareesh\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-controllers-android\1.9.2\201b3054fdbdf99404060036b8baf5f43ee734d8\gdx-controllers-android-1.9.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="201b3054fdbdf99404060036b8baf5f43ee734d8">
+        <dex dex="C:\Users\Hareesh\Desktop\gstest\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-controllers-android-1.9.2_65549bd7c3ee1dd6b6e6f8b6b6b19621051dc060\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hareesh\.gradle\caches\modules-2\files-2.1\net.dermetfan.libgdx-utils\libgdx-utils\0.13.2\62b7ab4f643c6b396292d1f2387c0099d28102ba\libgdx-utils-0.13.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="62b7ab4f643c6b396292d1f2387c0099d28102ba">
+        <dex dex="C:\Users\Hareesh\Desktop\gstest\android\build\intermediates\transforms\dex\debug\folders\1000\10\libgdx-utils-0.13.2_8aad2f3196c763ca8ca95a07ca8643153a6d92cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hareesh\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="C:\Users\Hareesh\Desktop\gstest\android\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.1_819b291b1a46b9506383b4fc12c0bcef7bf3365e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Hareesh\Desktop\gstest\android\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="627fb88b76e1236ff790e5612a9b42ed093eee68">
+        <dex dex="C:\Users\Hareesh\Desktop\gstest\android\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c35cc702a5bcb59c12cbcd85ddd32b535f0991e6\classes.dex" />
+    </item>
+
+</items>
